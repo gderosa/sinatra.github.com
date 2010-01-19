@@ -10,6 +10,7 @@ care of the rest.
 
 Applications {#apps}
 ------------
+- [Flickr Group Viewer](http://gv.vqvz.com) is a (nicer?) way to view photos in a flickr group.
 - [OnBoard](http:/dev.vemarsas.it/onboard/) a web interface to manage Linux-based network appliances. 
 - [Tweetrad.io](http://tweetrad.io/sinatra) text to speech conversion for twitter
 - [Tweeps](http://tweeps.webdirections.org) conference app to aggregate
@@ -111,9 +112,14 @@ Libraries and extensions {#libs}
   client.
 - [content\_for](http://github.com/foca/sinatra-content-for) Rails-like `content_for`
   helper for your views (supports ERB and Haml.)
+- [Sinatra Effigy](http://github.com/dancroak/sinatra-effigy) Sinatra extension
+  for Effigy (HTML in .html files, Ruby in .rb files) views.
+- [Sinatra Mongoid](http://github.com/dancroak/sinatra-mongoid) Sinatra extension
+  for Mongoid (MongoDB ORM).
 
 Websites {#sites}
 --------
+- [Bloor and Lansdowne is Blansdowne](http://blansdowne.ca) is a photoblog about a neighbourhood in Toronto.
 - [NYLS Upload Tool](http://upload.citylaw.org) Web-based replacement of FTP
 - [Fabulously40 Mobile](http://iphone.fabulously40.com) Sinatra powered mobile
   site of [Fabulously40](http://fabulously40.com/)
@@ -157,6 +163,7 @@ Websites {#sites}
 - [The Setup](http://usesthis.com/) Interviews with nerds about their computer setups.
 - [Congrelate](http://congrelate.com) Congress data mashup visualization tool.
 - [Scholas](http://schol.as) Social file-sharing for academics.
+- [Gemcutter](http://gemcutter.org) Awesome gem hosting.
 
 Companies using Sinatra {#biz}
 -----------------------
@@ -182,3 +189,4 @@ Companies using Sinatra {#biz}
 - [Nth Metal Interactive](http://nthmetal.com)
 - [Osborne Brook](http://osbornebrook.co.uk)
 - [Robot Mode](http://robotmo.de)
+- [thoughtbot](http://thoughtbot.com)
